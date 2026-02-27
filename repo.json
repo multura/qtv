@@ -1,1 +1,18 @@
-
+{
+  "apps": [
+    {
+      "id": "com.netflix.mediaclient",
+      "name": "Netflix",
+      "description": "Watch TV shows and movies recommended just for you.",
+      "icon": "https://cdn-icons-png.flaticon.com/512/5650/5650380.png",
+      "category": "Entertainment"
+    },
+    {
+      "id": "com.google.android.youtube.tv",
+      "name": "YouTube",
+      "description": "Experience YouTube on the big screen.",
+      "icon": "https://cdn-icons-png.flaticon.com/512/5650/5650380.png",
+      "category": "Video"
+    }
+  ]
+}
